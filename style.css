@@ -4,11 +4,14 @@ body {
 
 }
 main {
-    background-color: #FFE4E1;
+    background-color: #FFFFE0;
 }
 h1 {
     color: #0000CD
 }
 nav {
+    background-color: #FFEFD5
+}
+div {
     background-color: #F0E68C
 }
